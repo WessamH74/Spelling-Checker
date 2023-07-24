@@ -18,3 +18,6 @@ Note: The nearest 4 words from a word are the 2 words before and after this word
 ### Auxiliary space complexity:
 - O(N) for storing words in the list
 - O(Log2(N)) for balancing binary search Tree due to recursive stack
+
+###  space complexity:
+- O(N) for storing the nodes in BST
